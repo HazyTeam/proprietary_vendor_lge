@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/bullhead/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/lge/bullhead/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/lge/bullhead/proprietary/bin/lowi-server:system/bin/lowi-server \
+    vendor/lge/bullhead/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/lge/bullhead/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/lge/bullhead/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/bullhead/proprietary/bin/nl_listener:system/bin/nl_listener \
@@ -57,6 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/bullhead/proprietary/etc/diag/Bullhead_radio-general.cfg:system/etc/diag/Bullhead_radio-general.cfg \
     vendor/lge/bullhead/proprietary/etc/diag/IMS_DS_CM_NAS.cfg:system/etc/diag/IMS_DS_CM_NAS.cfg \
     vendor/lge/bullhead/proprietary/etc/diag/radio_ims.cfg:system/etc/diag/radio_ims.cfg \
+    vendor/lge/bullhead/proprietary/etc/diag/radio_wfc.cfg:system/etc/diag/radio_wfc.cfg \
     vendor/lge/bullhead/proprietary/etc/diag/wlan.cfg:system/etc/diag/wlan.cfg \
     vendor/lge/bullhead/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
     vendor/lge/bullhead/proprietary/etc/permissions/com.android.omadm.service.xml:system/etc/permissions/com.android.omadm.service.xml \
